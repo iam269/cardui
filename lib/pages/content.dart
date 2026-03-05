@@ -58,7 +58,7 @@ class Content extends StatelessWidget {
                       color: Colors.grey.shade700),
                 ),
                 Text(
-                  'AKSHIT MADAN',
+                  'IONITA AUREL MIHAI',
                   style: GoogleFonts.sourceCodePro(
                       fontWeight: FontWeight.w600,
                       fontSize: 20,

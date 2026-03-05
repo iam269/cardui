@@ -2,6 +2,8 @@
 
 A beautiful Flutter UI challenge displaying a stylized credit card with modern design elements.
 
+![Screenshot](Screenshot.png)
+
 ## Features
 
 - Credit card UI with logo and chip
